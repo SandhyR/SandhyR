@@ -1,9 +1,6 @@
 [![My Stats](https://github-readme-stats.vercel.app//api?username=SandhyR&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/SandhyR/)
 
 
-# Welcome
-
-Halo
 
 ## Most Used Languages
 
